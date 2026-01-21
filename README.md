@@ -15,7 +15,7 @@ Enigmus Chat - это анонимный чат, основанный на ши�
 
 ## 🎨 Дизайн
 
-Дизайн UI был создан разработчиком. Посмотрите дизайн в Figma здесь: [Дизайн Figma](https://www.figma.com/design/tavRbJORvSV64aM2v80zWp/Enigmus?node-id=0-1&t=LiIBYa4uM28akqPY-1)
+Дизайн UI был полностью создан с нуля. Дизайн в Figma здесь: [Дизайн Figma](https://www.figma.com/design/tavRbJORvSV64aM2v80zWp/Enigmus?node-id=0-1&t=LiIBYa4uM28akqPY-1)
 
 <div align="center">
   <img src="screenshots/main.png" alt="Основная страница с чатом и настройкой роторов" width="100%" />
